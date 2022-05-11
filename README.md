@@ -2,7 +2,8 @@
 
 ## 희망직군/필요사항
 
-- Front-end개발
+- #### Front-end개발
+  
   - HTML
   - CSS
   - JavaScript
@@ -11,13 +12,17 @@
   - PHP
   - Vue.js
   - TypeScript
-- Back-end개발
+- #### Back-end개발
+  
   - Python
   - MySQL
   - Firebase
   - Oracle
-- Android Application 개발
+- #### Android Application 개발
+  
   - Java
   - Kotrlin
   - Vue.js
   - MVP/MVVM 패턴등 에 대한 이해
+
+# WEB Full-Stack/APP 개발자를 꿈꾸며!
